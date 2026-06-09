@@ -1,0 +1,235 @@
+PRIVACY POLICY — RAY MOBILE
+
+Last updated: June 9, 2026
+Effective date: June 9, 2026
+
+This Privacy Policy explains how Ray Mobile ("Ray", "the App", "we", "us",
+or "our") collects, uses, shares, and protects information when you use the
+Ray Mobile application and related services (collectively, the "Service").
+
+Ray Mobile is a freight and logistics platform that connects shippers,
+carriers, and dispatchers to post loads and transport, book and manage
+shipments, communicate, and track deliveries in real time.
+
+By creating an account or using the App, you agree to the practices described
+in this Policy. If you do not agree, please do not use the Service.
+
+NOTE TO PUBLISHER (GOOGLE PLAY):
+  1. Replace the bracketed placeholders below before publishing —
+     [LEGAL ENTITY NAME], [REGISTERED ADDRESS], [SUPPORT EMAIL], and
+     [PRIVACY EMAIL] — and confirm the data-retention details.
+  2. Google Play requires this policy to be hosted at a PUBLIC, non-editable
+     URL (not a file). Publish it on a webpage and paste that URL into
+     Play Console > App content > Privacy policy.
+  3. The disclosures in Sections 2 and 4 must match what you declare in the
+     Play Console "Data safety" form.
+  4. Background location use (Section 2.2) is a sensitive permission. You must
+     complete Play's background-location declaration and may need to submit a
+     demonstration video; the in-app prominent-disclosure prompt must appear
+     before requesting the "Always"/background permission.
+  5. Section 8 describes how users request account and data deletion, which
+     Play requires you to also surface via the Data deletion URL/option.
+
+--------------------------------------------------------------------------------
+1. WHO WE ARE
+--------------------------------------------------------------------------------
+
+The Service is operated by [LEGAL ENTITY NAME] ("the Company"), the provider of
+the Ray Mobile application (application identifier: com.ybady.ray).
+
+Contact:
+  Email:   [SUPPORT EMAIL]
+  Privacy: [PRIVACY EMAIL]
+  Address: [REGISTERED ADDRESS]
+
+--------------------------------------------------------------------------------
+2. INFORMATION WE COLLECT
+--------------------------------------------------------------------------------
+
+We collect the following categories of information.
+
+2.1 Information you provide
+  - Account and profile data: name, phone number, email address, password
+    (stored in hashed form), profile photo, role (shipper, carrier, or
+    dispatcher), and company/organization details.
+  - Business content: loads and transport posts you create, shipment and
+    order details, pickup and delivery addresses, cargo descriptions,
+    pricing, vehicle and driver assignments, and ratings/reviews you submit.
+  - Documents and images: proof-of-delivery (POD) photos, transport/vehicle
+    photos, and other documents or files you upload through the App.
+  - Communications: messages, attachments, and shared locations you send
+    through the in-app chat, and any correspondence you have with our support
+    team.
+
+2.2 Location information
+  - Foreground location: when you grant permission, we use your device's
+    location to center maps, set delivery search areas, and pre-fill pickup
+    or delivery points.
+  - Background ("Always") location: if you are a driver/carrier on an
+    assigned delivery, and you grant the "Always" location permission, the App
+    shares your location while you drive — including when the App is in the
+    background or closed — so that shippers and dispatchers can track the
+    delivery's progress. Background tracking begins when a trip moves to the
+    "heading to pickup" stage and stops when the delivery is completed.
+  - Motion data: on supported devices, motion/activity signals are used to
+    make location tracking more battery-efficient during a delivery (for
+    example, reducing updates when the vehicle is stationary).
+
+  You can disable location access at any time in your device settings.
+  Disabling location will limit map, search, and live-tracking features.
+
+2.3 Camera and photo library
+  - With your permission, the App uses your camera and photo library to set a
+    profile picture, capture proof-of-delivery and transport photos, and
+    upload documents. With your permission, the App can also save
+    proof-of-delivery photos to your device's photo library.
+
+2.4 Device and technical information
+  - Device and app information such as device model, operating system version,
+    app version, language/locale, and a push-notification token (see below).
+  - Log and diagnostic information generated when you use the Service, used to
+    operate, secure, and troubleshoot the App.
+
+2.5 Push notifications
+  - We use Firebase Cloud Messaging (FCM) to deliver push notifications about
+    orders, shipments, chat messages, and account activity. To do this, we
+    process a device push token associated with your account. You can turn off
+    notifications in your device settings.
+
+--------------------------------------------------------------------------------
+3. HOW WE USE INFORMATION
+--------------------------------------------------------------------------------
+
+We use the information we collect to:
+  - Provide, operate, and maintain the Service and your account;
+  - Match shippers, carriers, and dispatchers, and facilitate the posting,
+    booking, assignment, and management of loads and shipments;
+  - Enable real-time delivery tracking and route/map functionality;
+  - Enable in-app messaging, including on-demand translation of messages into
+    your selected interface language;
+  - Send transactional and operational notifications;
+  - Process and display proof-of-delivery and other documents;
+  - Provide ratings and reputation features;
+  - Maintain the security, integrity, and reliability of the Service, and
+    prevent fraud and abuse;
+  - Comply with legal obligations and enforce our terms.
+
+--------------------------------------------------------------------------------
+4. HOW INFORMATION IS SHARED
+--------------------------------------------------------------------------------
+
+We share information only as needed to operate the Service:
+
+  - With other users on the platform: when you participate in a shipment, the
+    relevant parties (shipper, carrier, dispatcher, and assigned driver) can
+    see information needed to complete the work — for example your name and
+    contact details, the shipment details, chat messages, shared locations,
+    proof-of-delivery, and, during an active assigned delivery, your live
+    location.
+
+  - With service providers: we use trusted third parties to provide
+    infrastructure and features, including:
+      * Google Firebase Cloud Messaging — push notifications;
+      * Map, geocoding, and routing services accessed through our backend;
+      * Cloud hosting and storage for the App's data, documents, and images.
+    These providers process information on our behalf under appropriate
+    obligations.
+
+  - For legal reasons: we may disclose information if required by law, legal
+    process, or to protect the rights, safety, and security of our users,
+    the public, or the Company.
+
+  - Business transfers: if the Company is involved in a merger, acquisition,
+    or sale of assets, information may be transferred as part of that
+    transaction, subject to this Policy.
+
+  We do not sell your personal information.
+
+--------------------------------------------------------------------------------
+5. MAPS, GEOCODING, AND ROUTING
+--------------------------------------------------------------------------------
+
+Map tiles, address lookup (geocoding), and route calculation are accessed
+through our own backend services. Location and address data needed to render
+maps and compute routes is processed to provide these features.
+
+--------------------------------------------------------------------------------
+6. DATA RETENTION
+--------------------------------------------------------------------------------
+
+We retain personal information for as long as your account is active or as
+needed to provide the Service, comply with legal obligations, resolve disputes,
+and enforce our agreements. Shipment records, documents, and messages may be
+retained to maintain transaction history. When information is no longer needed,
+we delete or anonymize it. [Confirm specific retention periods.]
+
+--------------------------------------------------------------------------------
+7. SECURITY
+--------------------------------------------------------------------------------
+
+We use administrative, technical, and organizational measures designed to
+protect your information, including encrypted connections for data in transit
+and access controls for stored data (such as private storage buckets for
+documents accessed only through time-limited links). No method of transmission
+or storage is completely secure, and we cannot guarantee absolute security.
+
+--------------------------------------------------------------------------------
+8. YOUR CHOICES AND RIGHTS
+--------------------------------------------------------------------------------
+
+  - Permissions: you can grant or revoke location, camera, photo, and
+    notification permissions at any time through your device settings.
+  - Account information: you can review and update your profile information in
+    the App.
+  - Access and correction: you may request access to or correction of your
+    personal information by contacting us at [PRIVACY EMAIL].
+
+  - Account and data deletion: you can request deletion of your account and
+    associated personal information at any time by emailing [PRIVACY EMAIL]
+    with the subject "Account Deletion" from the email address on your account,
+    or by using the in-app account-deletion option where available. Upon a
+    verified request we will delete your account and personal data within a
+    reasonable period, except information we are required or permitted to retain
+    by law (for example, transaction records needed for legal, tax, accounting,
+    fraud-prevention, or dispute-resolution purposes), which we retain only as
+    long as necessary and then delete.
+
+--------------------------------------------------------------------------------
+9. CHILDREN'S PRIVACY
+--------------------------------------------------------------------------------
+
+The Service is intended for business and professional use and is not directed
+to children. We do not knowingly collect personal information from children. If
+you believe a child has provided us information, please contact us so we can
+remove it.
+
+--------------------------------------------------------------------------------
+10. INTERNATIONAL DATA TRANSFERS
+--------------------------------------------------------------------------------
+
+Your information may be processed and stored on servers located in countries
+other than your own. Where required, we take steps to ensure appropriate
+safeguards for such transfers.
+
+--------------------------------------------------------------------------------
+11. CHANGES TO THIS POLICY
+--------------------------------------------------------------------------------
+
+We may update this Privacy Policy from time to time. When we do, we will revise
+the "Last updated" date above and, where appropriate, provide additional notice
+within the App. Your continued use of the Service after changes take effect
+constitutes acceptance of the updated Policy.
+
+--------------------------------------------------------------------------------
+12. CONTACT US
+--------------------------------------------------------------------------------
+
+If you have questions or requests regarding this Privacy Policy or your
+information, contact us at:
+
+  [LEGAL ENTITY NAME]
+  Email:   [SUPPORT EMAIL]
+  Privacy: [PRIVACY EMAIL]
+  Address: [REGISTERED ADDRESS]
+
+© 2026 [LEGAL ENTITY NAME]. All rights reserved.
